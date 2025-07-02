@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "C:\\Users\\anubh\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\uv.exe",
+      "args": [
+        "--directory",
+        "D:\\Project Archive\\first-mcp-server",
+        "run",
+        "weather.py"
+      ]
+
+    }
+  }
+}
