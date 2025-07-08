@@ -19,6 +19,25 @@
         "mongodb://localhost:27017/"
 
       ]
+    },
+    "chess": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "D:\\Project Archive\\first-mcp-server\\chess-mcp",
+        "run",
+        "src/chess_mcp/main.py"
+      ]
+    },
+    
+    "midpay": {
+      "command": "C:\\Users\\anubh\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\uv.exe",
+      "args": [
+        "--directory",
+        "D:\\Project Archive\\midpay-mcp",
+        "run",
+        "simple_mcp_server.py"
+      ]
     }
   }
 }
