@@ -9,6 +9,16 @@
         "weather.py"
       ]
 
+    },
+      "MongoDB": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mongodb-mcp-server",
+        "--connectionString",
+        "mongodb://localhost:27017/"
+
+      ]
     }
   }
 }
